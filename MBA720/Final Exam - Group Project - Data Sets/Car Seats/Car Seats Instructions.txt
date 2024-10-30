@@ -1,0 +1,3 @@
+Data set description and data dictionary available on Page 274 of Building Better Models with JMP Pro textbook.
+
+Business Goal: Attempt to predict Sales (child car seat sales) in 400 locations based on a number of predictors.
